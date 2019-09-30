@@ -1,0 +1,29 @@
+_repo: The-Collected-Writings-of-Dougal-Graham-Skellat-Bellman-of-Glasgow-Vol-1-of-2_60365
+_version: 0.0.1
+creator:
+  authors:
+  - &id001
+    agent_name: Mac Gregor, George
+    aliases:
+    - Gregor, George Mac
+    - MacGregor, George
+    gutenberg_agent_id: '41148'
+    url: http://www.gutenberg.org/2009/agents/41148
+  - agent_name: Graham, Dougal
+    gutenberg_agent_id: '50925'
+    url: http://www.gutenberg.org/2009/agents/50925
+  editor: *id001
+description: ''
+gutenberg_issued: '2019-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Collected Writings of Dougal Graham, "Skellat" Bellman of Glasgow, Vol.
+  1 of 2
+url: http://www.gutenberg.org/ebooks/60365
